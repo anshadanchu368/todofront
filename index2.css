@@ -1,4 +1,4 @@
-* {
+ * {
   margin: 0px;
   padding: 0px;
   font-family: Arial, Helvetica, sans-serif;
@@ -39,8 +39,6 @@ i {
 
 .container {
   position: relative;
-  /* margin:0px;
-    padding:0px; */
   height: 48rem;
   width: 70rem;
 }
@@ -80,11 +78,11 @@ input[type="checkbox"] {
 
 strike {
   color: #c2c2c2;
-}
+} 
 
 /* card 2 */
 
-.card2 {
+ .card2 {
   border: 1px solid lightgrey;
   background-color: white;
   height: 17rem;
@@ -95,7 +93,7 @@ strike {
   position: relative;
   top: 4rem;
   left: 0.5em;
-}
+} 
 
 /* card3 */
 
@@ -114,7 +112,7 @@ strike {
 
 /* card4 */
 
-.card4 {
+ .card4 {
   border: 1px solid lightgrey;
   background-color: white;
   height: 17rem;
@@ -125,8 +123,8 @@ strike {
   position: relative;
   top: 5rem;
   left: 0.5px;
-}
-.card5 {
+} 
+ .card5 {
   border: 1px solid lightgrey;
   background-color: white;
   height: 17rem;
@@ -152,21 +150,18 @@ strike {
     left:30%;
     height:18%;
     width:18%;
-}
-.title{
+} 
+ .title{
     font-weight:bold;
     border-bottom:1px solid lightgrey;
     font-size:1.2rem;
     display: block;
-    /* position: relative;
-    left:1rem;
-    top:1rem; */
     margin:0;
     padding-left:1rem;
     padding-top:0.5rem;
-}
+} 
 
-input[type="text"]{
+ input[type="text"]{
     background-color: rgb(235, 229, 229);
     border: 1px solid rgb(243, 243, 243);
     border-radius:5px;
@@ -176,9 +171,9 @@ input[type="text"]{
     width:19rem;
     margin:0;
     padding:0;
-}
+} 
 
-button{
+ button{
     position: relative;
     top:3rem;
     left:12rem;
@@ -187,4 +182,4 @@ button{
     width:8rem;
     height:2rem;
     border-radius:5px;
-}
+}  
