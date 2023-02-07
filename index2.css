@@ -138,3 +138,53 @@ strike {
   top: 5rem;
   left: 0.5rem;
 }
+
+.notShow{
+    filter: opacity(30%);
+}
+
+.input{
+    border:1px solid lightgrey;
+    border-radius:5px;
+    background-color: white;
+    position:absolute;
+    top:20%;
+    left:30%;
+    height:18%;
+    width:18%;
+}
+.title{
+    font-weight:bold;
+    border-bottom:1px solid lightgrey;
+    font-size:1.2rem;
+    display: block;
+    /* position: relative;
+    left:1rem;
+    top:1rem; */
+    margin:0;
+    padding-left:1rem;
+    padding-top:0.5rem;
+}
+
+input[type="text"]{
+    background-color: rgb(235, 229, 229);
+    border: 1px solid rgb(243, 243, 243);
+    border-radius:5px;
+    position:relative;
+    top:2rem;
+    left:1rem;
+    width:19rem;
+    margin:0;
+    padding:0;
+}
+
+button{
+    position: relative;
+    top:3rem;
+    left:12rem;
+    border: 1px hidden ;
+    background-color: #00A5EC;
+    width:8rem;
+    height:2rem;
+    border-radius:5px;
+}
